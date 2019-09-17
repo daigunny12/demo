@@ -15,7 +15,7 @@ public class docFile {
 			System.out.println("Không tìm thấy tệp");
 		}
 	}
-	
+	aaaaa
 	
 	public  int[][] readFile(getAet a) {
 		a.setM(x.nextInt());
